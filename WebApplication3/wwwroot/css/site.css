@@ -1,10 +1,12 @@
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification 
 for details on configuring this project to bundle and minify static web assets. */
-html {
-    height: 100%;
-}
+html,
 body {
     height: 100%;
+}
+#container {
+    min-height: 100%;
+    position: relative;
 }
 
 /* Wrapping element */
@@ -38,4 +40,12 @@ body {
     .carousel-caption {
         display: none;
     }
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-color: #343a40;
+    border:unset;
 }
