@@ -30,3 +30,4 @@ C:\Users\tharindu v\source\repos\WebApplication3\WebApplication3\obj\Debug\netco
 C:\Users\tharindu v\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
 C:\Users\tharindu v\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CopyComplete
 C:\Users\tharindu v\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\tharindu v\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\Razor\Pages\Home.g.cshtml.cs
